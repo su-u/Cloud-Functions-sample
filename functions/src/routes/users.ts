@@ -5,7 +5,14 @@ const router = express.Router();
 
 /* GET users listing. */
 router.get('/', (req: Request, res: Response, next: NextFunction) => {
-  res.json('unko');
+  res.json({
+    test:'aaa',
+    wofowfjwofjoajwfjawfjfow:[
+      {aaa:true},
+      {result:false}
+    ],
+    time:'nau'
+  });
 });
 
 export {router}
