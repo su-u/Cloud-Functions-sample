@@ -1,0 +1,10 @@
+{
+  "name": "Cloud-Functions-sample",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "su- <aaaiiiuuu35@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
